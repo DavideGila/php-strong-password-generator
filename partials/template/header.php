@@ -14,8 +14,8 @@ include __DIR__ . "/../functions/functions.php";
     <title>PHP Strong Password Generator</title>
 </head>
 
-<body>
+<body style="background-color: #001632">
     <header class="container">
-        <h1 class="text-center">Strong Password Generator</h1>
-        <h2 class="text-center">Genera una password sicura</h2>
+        <h1 class="text-center" style="color: #808B99">Strong Password Generator</h1>
+        <h2 class="text-center text-white">Genera una password sicura</h2>
     </header>
